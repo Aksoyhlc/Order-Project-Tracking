@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.istakipdesktop" "\0"
-            VALUE "FileDescription", "istakipdesktop" "\0"
+            VALUE "CompanyName", "com.orderproject" "\0"
+            VALUE "FileDescription", "orderproject" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "istakipdesktop" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.istakipdesktop. All rights reserved." "\0"
-            VALUE "OriginalFilename", "istakipdesktop.exe" "\0"
-            VALUE "ProductName", "istakipdesktop" "\0"
+            VALUE "InternalName", "orderproject" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.orderproject. All rights reserved." "\0"
+            VALUE "OriginalFilename", "orderproject.exe" "\0"
+            VALUE "ProductName", "orderproject" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,6 +1,6 @@
 {
-    "name": "istakipdesktop",
-    "short_name": "istakipdesktop",
+    "name": "orderproject",
+    "short_name": "orderproject",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
